@@ -4,8 +4,7 @@ Calculator Project for Flutter Bootcamp
 
 Template looks like iOS13 Calculator App
 
-<img src="https://github.com/wazzapsenk/PixelArena-Design-with-Flutter/blob/master/Readme/Screenshot_1661350570.png" width="45%"></img> <img src="https://github.com/wazzapsenk/PixelArena-Design-with-Flutter/blob/master/Readme/Screenshot_1661351582.png" width="45%"></img>
-<img src="https://github.com/wazzapsenk/PixelArena-Design-with-Flutter/blob/master/Readme/Screenshot_1661609754.png" width="45%"></img> <img src="https://github.com/wazzapsenk/PixelArena-Design-with-Flutter/blob/master/Readme/Screenshot_1661609760.png" width="45%"></img>
+<img src="https://github.com/wazzapsenk/CalculatorApp-on-Flutter/blob/master/Screenshot_1661955850.png" width="45%"></img> <img src="https://github.com/wazzapsenk/CalculatorApp-on-Flutter/blob/master/Screenshot_1661955881.png" width="45%"></img>
 
 ## Getting Started
 
